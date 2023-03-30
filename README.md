@@ -1,4 +1,4 @@
-## Olá, eu sou João Vitor Alves 👋
+## Olá, eu sou João Vitor Alves <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"/>
 
 <div> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvalves167&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
